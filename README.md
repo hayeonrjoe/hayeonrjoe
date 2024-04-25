@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github-readme-stats.vercel.app/api?username=hayeonrjoe&theme=dracula">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hayeonrjoe&theme=dracula" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hayeonrjoe&layout=compact&theme=dracula">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayeonrjoe&layout=compact&theme=dracula" />
+</a>
+
 <!--
 **hayeonrjoe/hayeonrjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
