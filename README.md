@@ -4,6 +4,16 @@
   </a>
 </h1>
 
+```
+  class AboutMe:
+    def __init__(self):
+        self.name = "Becca"
+        self.pronouns = ["she", "her", "hers"]
+        self.certifications = "SQL Developer"
+        self.languages_spoken = ["English", "Korean"]
+        self.fun_fact = "My first language is English."
+```
+
 <h2>📈 My GitHub Stats</h2>
 <a href="https://github-readme-stats.vercel.app/api?username=hayeonrjoe&theme=dracula">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hayeonrjoe&theme=dracula" />
