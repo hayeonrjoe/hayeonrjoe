@@ -9,7 +9,7 @@
     def __init__(self):
         self.name = "Becca"
         self.languages_spoken = ["English", "Korean"]
-        self.fun_fact = "I am a third culture kid."
+        self.fun_fact = "I am a third culture kid, and English is my first language."
 ```
 
 <h2>📈 GitHub Stats</h2>
