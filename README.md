@@ -8,9 +8,8 @@
   class AboutMe:
     def __init__(self):
         self.name = "Becca"
-        self.certifications = "SQL Developer"
         self.languages_spoken = ["English", "Korean"]
-        self.fun_fact = "My first language is English."
+        self.fun_fact = "I am a third culture kid."
 ```
 
 <h2>📈 GitHub Stats</h2>
